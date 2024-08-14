@@ -40,7 +40,7 @@ cd ConditionalGAN
 
 ### Results
 
-The generated digits after 300 epochs show a remarkable similarity to the real MNIST digits. You can view a comparison between true and generated images in `output_300.png`.
+The generated digits after 300 epochs show a remarkable similarity to the real MNIST digits. You can view a comparison between true and generated images in `outputs/output_300.png`.
 
 ## Checkpoints
 
