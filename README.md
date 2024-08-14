@@ -10,7 +10,7 @@ This repository contains the implementation of a Conditional Deep Convolutional 
 
 - **Conditional DCGAN:** The model is conditioned on the digit class, allowing for the generation of specific digit types.
 - **High Fidelity:** The generated images demonstrate high visual quality and closely match the corresponding real digits.
-- **Pre-trained Checkpoints:** Trained checkpoints for 300 epochs are provided, enabling you to either continue training or directly use the model for inference.
+- **Pre-trained Checkpoints:** Trained checkpoints for 300th epoch are provided, enabling you to either continue training or directly use the model for inference.
 - **Customizable:** The architecture and training process are easily modifiable, allowing experimentation with different datasets or hyperparameters.
 
 ## Getting Started
